@@ -495,6 +495,7 @@
 				531391271D7FBDAD00632EE6 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		531391281D7FBDAD00632EE6 /* Build configuration list for PBXNativeTarget "MySQLiteTest1Tests" */ = {
 			isa = XCConfigurationList;
@@ -503,6 +504,7 @@
 				5313912A1D7FBDAD00632EE6 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 

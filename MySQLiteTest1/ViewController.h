@@ -2,7 +2,7 @@
 //  ViewController.h
 //  MySQLiteTest1
 //
-//  Created by iflashbuy on 16/9/7.
+//  Created by youbenwu on 16/9/7.
 //  Copyright © 2016年 youbenwu. All rights reserved.
 //
 
